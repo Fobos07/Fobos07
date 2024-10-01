@@ -35,3 +35,21 @@ Hi! My name is Danya and i'm fullstack-developer from Moscow
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width=35>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width=35>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width=35>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width=35>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" width=35>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/celery/celery-original-wordmark.svg" width=35>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sentry/sentry-original-wordmark.svg" width=35>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width=35>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width=35>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" width=35>
+</div>
+
+### :book: Studying :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" width=35>
+</div>
