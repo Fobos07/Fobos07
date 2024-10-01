@@ -42,14 +42,23 @@ Hi! My name is Danya and i'm fullstack-developer from Moscow
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width=35>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width=35>
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" width=35>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/celery/celery-original-wordmark.svg" width=35>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original-wordmark.svg" width=35>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sentry/sentry-original-wordmark.svg" width=35>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width=35>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width=35>
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" width=35>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
 ### :book: Studying :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" width=35>
 </div>
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Fobos07&theme=dark&mode=weekly&background=45%2C3F19EB%2C000000&stroke=008F11)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fobos07&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
