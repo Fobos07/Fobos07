@@ -28,9 +28,9 @@
 
 Hi! My name is Danya and i'm fullstack-developer from Moscow
 
-- I work as a software engineer and contribute to the development of the interface and backend for creating web applications.
-- In my free time, I like to learn something new
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Tg-0099cc?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/danuil) [![Linkedin Badge](https://img.shields.io/badge/In-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniil-gyrman)
+- :man_office_worker: I work as a software engineer and contribute to the development of the interface and backend for creating web applications.
+- :timer_clock: In my free time, I like to learn something new
+- :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/Tg-0099cc?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/danuil) [![Linkedin Badge](https://img.shields.io/badge/In-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniil-gyrman)
 
 ---
 
@@ -53,6 +53,7 @@ Hi! My name is Danya and i'm fullstack-developer from Moscow
 ### :book: Studying :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" width=35>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width=35>
 </div>
 
 ---
