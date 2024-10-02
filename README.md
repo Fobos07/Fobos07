@@ -48,6 +48,7 @@ Hi! My name is Danya and i'm fullstack-developer from Moscow
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width=35>
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" width=35>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
 ### :book: Studying :
